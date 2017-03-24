@@ -1,0 +1,75 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+.main-title {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  float: left;
+}
+
+
+#nav-bar li {
+   display: inline;
+   text-align: center;
+   margin: 5px 2px 0px 0px;
+   padding: 2px 7px 2px 7px;
+   color: #666;
+   background-color: black;
+   border: 1px solid #ccc;
+   text-decoration: none;   
+}
+
+a {
+  background-color: #999;
+  color: white;
+  display: block;
+  width: 164px;
+  text-decoration: none;
+  text-align: center;
+  padding: 5px;
+}
+
+
+
+.pricing_features {
+  display: inline-block;
+  float: left;
+  width: 200px;
+  margin-left: 30px;
+}
+
+.pricing_features li {
+  list-style-type: square;
+}
+
+h5 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.footer {
+  padding: 20px 0;
+}
+
+.clear {
+  clear: both;
+}
